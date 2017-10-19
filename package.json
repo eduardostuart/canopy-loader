@@ -1,0 +1,30 @@
+{
+  "name": "peg-loader",
+  "version": "0.1.0",
+  "description": "peg loader module for webpack",
+  "author": "Eduardo Stuart <hi@s.tuart.me>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "dependencies": {
+    "canopy": "^0.2.0"
+  },
+  "devDependencies": {
+    "standard-version": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eduardostuart/peg-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eduardostuart/peg-loader/issues"
+  },
+  "homepage": "https://github.com/eduardostuart/peg-loader",
+  "keywords": [
+    "peg",
+    "webpack",
+    "loader"
+  ]
+}
