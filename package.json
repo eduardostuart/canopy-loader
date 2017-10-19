@@ -1,6 +1,6 @@
 {
   "name": "peg-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "peg loader module for webpack",
   "author": "Eduardo Stuart <hi@s.tuart.me>",
   "license": "MIT",
