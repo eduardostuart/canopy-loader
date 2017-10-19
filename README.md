@@ -1,6 +1,8 @@
-# PEG loader
+# [Canopy]() PEG loader
 
-"Parsing expression grammar" [PEG](https://en.wikipedia.org/wiki/Parsing_expression_grammar) loader for webpack
+> [Canopy](http://canopy.jcoglan.com/) is a [PEG](https://en.wikipedia.org/wiki/) parser compiler. It lets you describe the grammar of the
+> language you’re trying to parse using a simple, terse syntax, and it
+> generates a parser for the language from this definition.
 
 ## Usage
 
@@ -10,7 +12,7 @@ module.exports = {
     rules: [
       {
         test: /\.peg$/,
-        loader: 'peg-loader'
+        loader: 'canopy-loader'
       }
     ]
   }

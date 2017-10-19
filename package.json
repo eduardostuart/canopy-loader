@@ -1,7 +1,7 @@
 {
-  "name": "webpack-peg-loader",
+  "name": "canopy-loader",
   "version": "0.1.2",
-  "description": "peg loader module for webpack",
+  "description": "canopy (peg parser compiler) loader module for webpack",
   "author": "Eduardo Stuart <hi@s.tuart.me>",
   "license": "MIT",
   "main": "index.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:eduardostuart/peg-loader.git"
+    "url": "git@github.com:eduardostuart/canopy-loader.git"
   },
   "bugs": {
-    "url": "https://github.com/eduardostuart/peg-loader/issues"
+    "url": "https://github.com/eduardostuart/canopy-loader/issues"
   },
-  "homepage": "https://github.com/eduardostuart/peg-loader",
+  "homepage": "https://github.com/eduardostuart/canopy-loader",
   "keywords": [
-    "peg",
+    "canopy",
     "webpack",
     "loader"
   ]
