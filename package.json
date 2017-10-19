@@ -1,6 +1,6 @@
 {
   "name": "canopy-loader",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "canopy (peg parser compiler) loader module for webpack",
   "author": "Eduardo Stuart <hi@s.tuart.me>",
   "license": "MIT",
